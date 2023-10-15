@@ -24,6 +24,6 @@
   "homepage": "https://github.com/luisivan/fetch-meta-tags#readme",
   "dependencies": {
     "node-fetch": "^3.0.0",
-    "node-html-parser": "^5.0.0"
+    "node-html-parser": "^6.1.10"
   }
 }
